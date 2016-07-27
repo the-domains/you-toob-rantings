@@ -6,9 +6,9 @@ color:
   saturation: 0.046149610076099634
   rhythmicContrast: 0.2164539135992527
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: 'You Toob Rantings '
