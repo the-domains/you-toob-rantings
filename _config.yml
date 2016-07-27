@@ -1,4 +1,3 @@
-layout_spectrum: 0.965244710445404
 typography_spectrum: 0.4211758819874376
 color:
   brandStrength: 0.016475939191877842
@@ -11,5 +10,14 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.965244710445404
+author:
+  name: Paddy Ireland
+  email: info@caterpillarwebdesign.com
+  url: 'http://caterpillarwebdesign.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffd942da-d532-4f8b-b42b-9bc312afddf3.jpg
 name: 'You Toob Rantings '
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/009c5bca-8049-41e4-be4b-618d8cade3fc.jpg
 title: My not so humble mumblings of all things Ai
