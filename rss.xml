@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My not so humble mumblings of all things Ai]]></title>
+        <description><![CDATA[My not so humble mumblings of all things Ai]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jul 2016 20:50:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Glass | Google Developers]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69175e59-821d-45f1-9a05-22aa48f83ae7.jpg">]]></description>
+            <link>https://developers.google.com/glass/</link>
+            <guid isPermaLink="false">089b2c75-6433-4aeb-acf9-752c1bd966f1</guid>
+            <pubDate>Wed, 27 Jul 2016 20:49:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
